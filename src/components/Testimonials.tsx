@@ -69,8 +69,8 @@ function Avatar(props: Readonly<AvatarProps>) {
       <div className="flex-shrink-0 overflow-hidden rounded-full w-14 h-14">
         <Image
           src={props.image}
-          width="40"
-          height="40"
+          width="60"
+          height="60"
           alt="Avatar"
           placeholder="blur"
         />
