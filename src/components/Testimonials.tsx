@@ -47,8 +47,8 @@ export const Testimonials = () => {
 
             <Avatar
               image={userThreeImg}
-              name="Gabrielle Winn"
-              title="Co-founder of Acme Inc"
+              name="Yosep Maheswara"
+              title="Warga Bantul"
             />
           </div>
         </div>
