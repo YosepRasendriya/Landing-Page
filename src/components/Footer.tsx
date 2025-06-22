@@ -108,6 +108,16 @@ export function Footer() {
                 <Linkedin />
               </a>
             </div>
+             <div className="flex items-center mt-4 text-gray-500 dark:text-gray-400 space-x-2">
+              <Image
+              src="/img/whatsapp.png"
+              alt="WhatsApp"
+              width={26}
+              height={26}
+              className="object-contain"
+            />
+                <span>0895622931166</span>
+              </div>
           </div>
         </div>
 
